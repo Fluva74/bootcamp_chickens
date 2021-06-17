@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>Chicken-Finnepedia</title>
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="home">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="comments">Comments</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h1>1 &lt; 6 &gt; 3</h1>
+        <h1>Chicken</h1>
+        <p>Roses are red, <br>
+            Violets are blue, <br>
+            Garbage stinks, <br>
+            And so do you! <br>
+        </p>
+        <hr>
+        <img src="stevie_chicks.jpg">
+        <h2>&spades;&spades;&spades;&spades;&spades;&spades;&spades;&spades;&spades;</h2>
+        <h2>I like H<sub>2</sub>0</h2>
+        <hr>
+        <div>
+            <a href="http://www.google.com"> I Am A Link To Google!!!</a>
+            <a href="about.html">About Page</a>
+        </div>
+        <p>
+            The <b>chicken</b> (Gallus gallus domesticus), a subspecies of the red junglefowl, is a type of domesticated
+            <a href="https://en.wikipedia.org/wiki/Fowl">fowl</a>, originally from Southeastern Asia. Rooster or cock is
+            a
+            term for an adult male bird. A younger male
+            may be
+            called a cockerel; a male that has been castrated is a capon. The adult female<sup>[4]</sup> bird is called
+            a
+            hen.
+        </p>
+        <p>
+            Chickens are one of the most common and widespread domestic animals, with a total population of 23.7 billion
+            as
+            of 2018,[3] up from more than 19 billion in 2011.
+        </p>
+        <section>
+            <h2>Terminology</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident debitis magnam, hic necessitatibus
+                repellendus
+                libero ad et, odit, ratione tempore ex sapiente aliquam veritatis ducimus numquam pariatur. Nemo, dolor
+                iste.
+            </p>
+        </section>
+        <h2>General biology and habitat</h2>
+        <h3>Behavior</h3>
+        <h4>Social behavior</h4>
+        <h4>Broodiness</h4>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Rem est eligendi fugit. Illum, molestias omnis
+            dolorem
+            necessitatibus laudantium tempora quis sunt sequi distinctio odit voluptates nesciunt maiores dolore odio
+            aut.
+            Fugiat unde totam molestias ea officia. Ea excepturi qui officia porro temporibus odio nam eaque quis
+            molestias
+            inventore molestiae aperiam aspernatur a ullam, numquam quos magnam libero aliquid quae maxime.
+            Libero, veniam! Non beatae eveniet error expedita esse quos quibusdam asperiores ut, labore nesciunt. Nulla
+            cumque, nesciunt fugit, velit eius corporis ullam accusantium earum ex dignissimos voluptates quae, sequi
+            perferendis?</p>
+        <h2>Breeds of chickens</h2>
+        <ul>
+            <li>Bantam</li>
+            <ul>
+                <li>Silkie</li>
+                <li>Polish</li>
+            </ul>
+            <li>Standard</li>
+            <ul>
+                <li>Easter Egg</li>
+                <li>Rhode Island Red</li>
+            </ul>
+
+        </ul>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/K%C3%BCken_vor_dem_ersten_Ausflug.jpg/299px-K%C3%BCken_vor_dem_ersten_Ausflug.jpg"
+            alt="Baby Chicks Lined Up">
+    </main>
+    <footer>
+        <p>This is my website
+        <ul>
+            <li><a href="phone">Phone</a></li>
+            <li> <a href="email">Email</a></li>
+            <li><a href="talk">Talk</a></li>
+            </p>
+    </footer>
+</body>
+
+</html>
